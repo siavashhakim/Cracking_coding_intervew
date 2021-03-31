@@ -1,4 +1,8 @@
+"""
 # Arrays and strings:
+By Siavash Hakim Elahi
+
+"""
 # Ex1: unique characters
 def uniq_ch_finder(str):
     a = list(set(str))
@@ -39,4 +43,5 @@ def permutation_string2(str1,str2):
     str11 = sorted(str1)
     str22 = sorted(str2)
     return str11 == str22
+
 
