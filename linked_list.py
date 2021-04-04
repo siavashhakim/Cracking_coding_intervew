@@ -23,7 +23,7 @@ class LinkedList:
         self.head = new_node
 
     # Given a reference to the head of a list and a key,
-    # delete the first occurence of key in linked list
+    # delete the first occurrence of key in linked list
     def deleteNode(self, key):
 
         # Store head node
